@@ -1,0 +1,52 @@
+PHX2.0Free Breakfast, Wifi, Parking 090012003.5450
+PHX5.0Free Breakfast, Wifi, Pool    080010003.7400
+PHX1.2Free Wifi                     100013004.3570
+PHX3.7Free Breakfast, Wifi, Pool    070010003.8389
+PHX7.8Free Breakfast, Wifi, Parking 110014004.0375
+SEA1.0Free Parking, Wifi, Pool      080011004.0590
+SEA2.9Free Breakfast, Wifi, Pool    090013303.5500
+SEA9.0Free Breakfast, Wifi, Kitchen 100012003.7600
+SEA3.4Free Wifi, Pool, Kitchen      093012003.2390
+SEA5.0Free Breakfast, Wifi, Pool    113014304.7375
+JFK4.3Free Parking, Open bar, Pool  103013303.9690
+JFK1.4Free Breakfast, Parking, Wifi 090011303.4600
+JFK2.3Free Wifi, Pool, Arcade       070013004.2400
+JFK7.3Free Wifi, Pool, Open bar     100014303.9500
+JFK5.4Free Wifi, Arcade, Open bar   113014005.0700
+JFK3.2Free Breakfast, Wifi, Kitchen 120013003.5540
+YVR3.0Free Wifi, Pool, Gym          093012003.7600
+YVR1.0Free Wifi, Open bar, Kitchen  130015004.9725
+YVR2.6Free Wifi, Parking Gym        080010003.3450
+YVR9.8Free Wifi, Parking, Gym       080010303.0375
+YVR0.5Free Wifi, Gym, Open bar      113014004.7700
+LAX1.0Free Wifi, Bar, Tour discount 090011305.0890
+LAX0.5Free Wifi, Car rental discount103014004.9950
+LAX5.0Free Wifi, Selfie sticks, Bar 100013304.2750
+LAX3.7Free Wifi, Bar, Tour discount 080012003.8650
+LAX4.6Free Wifi, Selfie sticks,Tours093011304.8900
+LAX2.7Free Tours, Bar, Selfie sticks103014303.6925
+ORD4.0Free Wifi, Safe box, Open bar 100014004.3500
+ORD0.5Free Wifi, 24/7 gourmet buffet120013005.0690
+ORD2.3Free Wifi, Parking, Safe box  080010003.7475
+ORD9.024/7 gourmet buffet, Safe box 120013004.7650
+ORD5.5Free Wifi, Safe box, Pool     113013003.5375
+MEX0.5Free Wifi, Waterslide, Tours  120015005.0700
+MEX1.3Waterslide, Tour discount     110013004.7650
+MEX5.0Free Wifi, 24/7 gourmet buffet100014003.9520
+MEX3.6Free Wifi, Car + Tour discount080010004.0600
+MEX2.3Free Wifi, Waterslide, Bar    103012303.7625
+HNL0.2Waterslide,24/7 gourmet buffet100012004.9900
+HNL1.0Free Wifi, Breakfast, Bar     120014004.0850
+HNL2.3Free Wifi, 24/7 gourmet buffet103012304.5825
+HNL9.0Free Wifi, Car + Tour discount080011303.7750
+HNL5.6Free Wifi, Waterslide, Bar    090014304.2800
+PDX1.0Free Wifi, Pool, Gym, Bar     080010303.5300
+PDX2.4Free Wifi, Tour discount      093012303.9350
+PDX5.8Tour discount, Waterslide     113014304.3437
+PDX3.9Car discount, Gym, Open bar   110013004.0450
+PDX8.9Free Wifi, Car + Tour discount100013303.7425
+EWR0.5Free Wifi, Waterslide, Bar    123014004.9700
+EWR2.7Free Wifi, Selfie sticks, Bar 100013004.2650
+EWR5.8Free Wifi, Waterslide, Gym    090012003.9600
+EWR9.0Free Wifi, Parking, Pool, Gym 120014003.5450
+EWR4.3Free Wifi, Car + Tour discount093012004.5625
